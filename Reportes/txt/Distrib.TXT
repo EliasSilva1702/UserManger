@@ -1,0 +1,29 @@
+A     0
+A   100 CARZOLIO SORIA, BRUNO                                        E
+A   101 HUERTAS MOLINARI, GUSTAVO                                    E
+A   105 DONDERO NORMA                                                E
+A   140 TAIS, MANDUCA                                                E
+A   264 SOLUCIONES ICO ICO                                           E
+A   432 MILANO GOLGOLDCORN, SARA ISABE                               E
+A   464 COLLETTE, OLGA                                               E
+A   493 CHAPPE, GLADYS                                               E
+A   555 COCCHI DIAZ, CARLOS RAMON                                    E
+A   647 DUARTE OLGA LIDIA                                            E
+A   695 RIVERO TERESA                                                E
+A  1200 LEZAMA, DIEGO FRANCISCO                                      E
+A  1218 DUARTE OLIVERA, EDIS                                         E
+A  1311 BOGLIACINO HNOS                                              I
+A  1367 AMOR IVANNA                                                  E
+A  3001 EL TRIGAL S.A.                                               E
+A  3002 ESTABLECIMIENTOS COLONIA                                     E
+A  3003 LESTONSUR S.A.                                               E
+A  3004 MASLIAH HNOS S.A.                                            E
+A  3005 SUCESORES CARLOS SCHNECK S.A.                                E
+A  3006 ROMY S.A.                                                    E
+A  3007 CLEDINOR S.A.                                                E
+A  3008 INALER SA                                                    E
+A  3009 IBARRA, FEDERICA                                             E
+A  3010 BLUE BIRD S.A.                                               E
+A  3011 PUERTA DEL SUR S.A.                                          E
+A  3012 EDIFICIO PARK VILLE                                          E
+A  3013 FRIGORIFICO LAS PIEDRAS S.A.                                 E

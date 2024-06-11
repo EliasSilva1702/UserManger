@@ -1,0 +1,206 @@
+  100 CARZOLIO SORIA, BRUNO                                        E
+  101 HUERTAS MOLINARI, GUSTAVO                                    E
+  105 DONDERO NORMA                                                E
+  110 MARTINEZ RAMOS, GLORIA                                       E
+  111 AREOSA, ESTELA                                               E
+  116 NOCELLI, DARIO                                               E
+  140 TAIS, MANDUCA                                                E
+  141 PACHECO MARTHA                                               E
+  163 OLIVERA RAMIRO                                               E
+  493 CHAPPE, GLADYS                                               E
+  520 AVILA, STELLA                                                E
+  549 GONNET GRIOT, HUGO                                           E
+  555 COCCHI DIAZ, CARLOS RAMON                                    E
+  601 FRUTOS GARCIA,NILDA GRACIELA                                 E
+  605 ARMAND UGON, SUSANA ESTELA                                   A
+  634 CAMP MILAGROS                                                E
+  647 DUARTE OLGA LIDIA                                            E
+  695 RIVERO TERESA                                                E
+ 1200 LEZAMA, DIEGO FRANCISCO                                      E
+ 1218 DUARTE OLIVERA, EDIS                                         E
+ 1311 BOGLIACINO HNOS                                              I
+ 1323 IRIGOYEN, RAFAEL                                             E
+ 1367 AMOR IVANNA                                                  E
+ 2050 XXX
+ 2059 MICELI MARCELA                                               E
+ 2063 MIÒO SARA                                                    A
+ 2069 MACHADO DOS SANTOS MELBA                                     I
+ 3001 EL TRIGAL S.A.                                               E
+ 3002 ESTABLECIMIENTOS COLONIA                                     E
+ 3003 LESTONSUR S.A.                                               E
+ 3004 MASLIAH HNOS S.A.                                            E
+ 3005 SUCESORES CARLOS SCHNECK S.A.                                E
+11000 KRUCHIK, GABRIEL                                             E
+11001 SCAPUSIO, NATALIA                                            E
+11016 WEINBERG BALLETO, INGRID ELISA                               E
+11018 MILBURN SASTRE, MARIA JESUS                                  E
+11023 PEREZ DE OLIVERA, GABRIEL MARC                               E
+11024 RAHI GOMEZ, PABLO GUILLERMO                                  E
+11026 VALLE FIRPO, LUCIA ANA                                       E
+11032 CORREA SILVERA, LIBER MARTIN                                 E
+11047 CANCELA RODRIGUEZ, JANETTE                                   E
+11048 FARIAS PERUCHENA, DANIELA                                    E
+11056 DEL PRIORE BARBUTI, FRANCO                                   E
+11057 MARTIRENA, LAURA                                             I
+11058 PARRILLA DE LEON,CARMEN GLADYS                               E
+11059 DANSEAUX FLORES, SILVIA ESTHER                               E
+11065 PORTILLO , CRISTIAN                                          E
+11067 PERINI RATTO, NICOLAS RAUL                                   E
+11068 CARRO RIVOIR, FABIANA                                        E
+11069 CAVALCANTE SOSA, CLAUDIA FABIA                               E
+11075 STEINECK PENNA, SANTIAGO                                     A
+11101 TRINIDAD PINTOS, MARIE ENICE                                 A
+11102 SANCHEZ, JONATHAN                                            E
+11103 MIRABALLES, NATALIA ANDREA                                   A
+11106 MALLARINI MALEVICH, GLADYS                                   E
+11114 DA COSTA MARTINS, MANUEL NELSO                               E
+11117 RODRIGUEZ CORE,NATALIA ANALIA                                E
+11148 RAMOS DOMINGUEZ, JESSIKA CAROLINA                            E
+11162 DE LEON, ANDREA                                              E
+11165 GARCIA, SANDRA                                               I
+11170 PEROCHENA CARABALO, FABIO DANI                               E
+11171 GUETTI, DINA                                                 I
+11178 PICUN, ADRIANA                                               E
+11180 SANGUINETTI REYES, OLGA SABINA                               E
+11182 CAPOTE CLAVERO, DAYANA ALEXAND                               E
+11184 RECATE GOMEZ, MARIA HORTENCIA                                A
+11185 CASTILLO TENCHIO, NATALIA C.                                 E
+11188 GODOY DIAZ, ADRIANA ELIZABETH                                E
+11195 CLAVIJO AYALA, GIMENA MARISOL                                E
+11198 PONTE CALLAGNO, GISSELLE                                     E
+11199 VIERA BARRETO, GLORIA LAURA                                  E
+11200 DELFINO SOSA, SANDRA ELIZABETH                               E
+11201 SONDEREGGER, GRETEL                                          E
+11208 MUÒOZ ENIS, ALBERTO FABIAN                                   E
+11210 VISSIO SOSA, SEBASTIAN NICOLAS                               A
+11212 SOSA OLIVERA, ADELA MARIA                                    E
+11214 ROSSI RAMIREZ, GUSTAVO ROGELIO                               E
+11217 PERG FIGUEROA, BLANCA BEATRIZ                                E
+11225 ALVAREZ MATTIAUDA, ALEJANDRO M                               E
+11228 GOMEZ CURBELO, GLADYS GRACIELA                               E
+11230 NAGLIERI RODRIGUEZ, FRANCO                                   E
+11234 SOLARI LAVEGA, JAVIER LEONARDO                               E
+11236 VILLANUEVA SILVA, ALEJANDRA G.                               A
+11238 BERTONE,ZAGO, ROSANGELA                                      E
+11239 DELGADO SUAREZ. LUCIA ISABEL                                 E
+11240 PUCHETTA MARTINEZ, AYMARA                                    E
+11244 ALTEZ TECHERA, SANDRA ELIZABET                               E
+11245 QUEVEDO RUIZ DIAZ, SILVIA YANET                              E
+11248 PEREZ DIAZ, GRACIELA MIREL                                   E
+11250 PEROZA TORRES, GINETT FERNANDA                               A
+11251 BUSTOS FERNANDEZ, MARIA SILVIN                               E
+11257 CUADRO GOMEZ, BLANCA                                         E
+11260 GONZALEZ, HELLEN                                             E
+11266 ETCHECOPAR, LUANA                                            E
+11267 LEITES CUFRE, CRISTINA PAOLA                                 E
+11268 RIVERO LEITES, JOHANA VALERIA                                E
+11270 TEXEIRA NUÒEZ ARISPE, SILVIA D                               E
+11282 CARRIZO RODRIGUEZ, VALERIA G.                                E
+11285 PARENTE ECHENIQUE, LUCIANA V.                                E
+11290 ITURBURUA ARMANDO, INES MARIA                                E
+11293 VARELA AMARO, LUCERO ESTEFANIA                               E
+11295 CORREA MAYEA, PATRICIA PIERINA                               E
+11311 ASSANELLI PORTELA, GABRIELA                                  I
+11313 ROMERO LARROSA, MONICA E                                     A
+11317 BARROS IGLESIAS, ANA ISABEL                                  A
+11319 FIGUEREDO ESTIN, JESSICA M                                   E
+11362 SENA DOBALO, ANTONELLA                                       E
+11364 MACHADO RAFFO, ANA CLARA                                     E
+11365 MENDEZ CARDOZO, LUCIA GIMENA                                 E
+11366 AVILA, ANA LAURA                                             E
+11367 FRANCO, JONATHAN                                             A
+11372 ROTH SANCHEZ, ADRIANA                                        A
+11373 MILANO MIERES, ADELA CRISTINA                                E
+11374 RODRIGUEZ, PATRICIO                                          E
+11375 MOLINELLI AYRES, GABRIELA                                    I
+11376 DA SILVA GERFAU, ADRIANA YOLAN                               A
+11377 APABLAZA AMOR, VALENTINA                                     E
+11378 PELUFFO PEREZ, MARIA CECILIA                                 E
+11379 GUTIERREZ RODRIGUEZ, ADRIANA                                 A
+11380 GONZALEZ GONZALEZ, GLADYS LILI                               A
+11381 BUSTAMANTE RAMOS, MARIA DEL CA                               A
+11382 LOPEZ MIÒOS, DIANA VALERIA                                   A
+11384 GONZALEZ  VECINO, ANALIA                                     A
+11385 NIZ, MARIA ALEJANDRA                                         E
+11386 DI LONGO MIERES, ROSSANA                                     E
+11387 MAYGA, OLGA                                                  I
+11412 FAST PEREIRA, RUDOLF ALEXANDER                               E
+11413 TRIUNFO, FERNANDA                                            E
+11414 GONZALEZ SANCHES, JUAN MANUEL                                I
+11417 VEGA KLEIN, GABRIELA KARINA                                  A
+11418 ANDRADA RUIZ DIAZ, DAHIANA BEA                               A
+11419 OTEGUI ROVIRA, JULIO                                         A
+11420 SENA MATTA, LETICIA                                          I
+11422 SORIA SUAREZ, HUGO                                           E
+11423 BOTTA PAGANI, ANA CECILIA                                    A
+11425 MARTINEZ, ROSA                                               I
+11426 CARDOZO RAMIREZ, CRISTINA GISS                               E
+11427 ISLAS, EVANGELINA                                            I
+11428 CASTRO, MARISA                                               A
+11429 SILVA, JESSICA                                               E
+11430 CACHEIRO VILLAGRAN, SANDRA D.                                A
+11433 BURGOS, MARIA                                                A
+11434 RAMIREZ, ANDREA                                              I
+11435 RAYMONDO, STELLA MARIS                                       I
+11437 RODRIGUEZ FUNDARE, ANA LAURA                                 E
+11438 RIVAS CORREA, A. CLEMENTINO                                  I
+11440 SILVA SILVA, LUCAS DAMIAN                                    A
+11441 RODRIGUEZ BERRUETA, ALCIDES                                  I
+11442 CARBONE REYES, GRICEIDA ESTHER                               E
+11492 ARBIZA SANTOS, ANA VIRGINIA                                  A
+11494 DA  SILVA ZEBALLOS, ROSANNA RA                               I
+11495 ARIAS GONZALEZ, FERNANDO JAVIE                               I
+11496 SANTANA DUARTE, BRENDA ALICIA                                I
+11497 DIAZ JARA, VICENTE  FEDERICO                                 E
+11498 ACEVEDO, CARMEN                                              E
+11500 PEREZ MARTINEZ, MARIA YANNETTE                               E
+11502 DIAZ MACHADO, GONZALO                                        I
+11503 VIVES DE LOS SANTOS, JUAN MARC                               I
+11504 MESA NAVIA, MARIA JOSE                                       A
+11505 DE LEON CHIAVONI, ANDREA                                     E
+11506 TURRION LABORDE, DIANA RUTH                                  E
+11507 CORREA , ADRIANA ELIZABETH                                   E
+11508 SVIRIDENKO CABRERA, CARMEN INE                               A
+11509 URRUTTY , ARLINTON GISLENO                                   A
+11510 TECHERA AGUIRRE, GLORIA DELIA                                E
+11511 SUAREZ VIERA, HILDA JENNYBELL                                I
+11512 MACEDO ZENI, SOLANGE MARIA                                   I
+11513 BORBA LEDESMA, CINTIA SOLEDAD                                I
+11514 SILVEIRA MACHADO, NELSON DANIE                               I
+11516 RODRIGUEZ BARALE, MARYS                                      A
+11741 ANDERSON ALVAREZ, MIRIAM YANET                               E
+11742 YAFE NUSSPAUMER, PAULA RACHEL                                I
+11743 DUARTE RIBEIRO, MARIA JOAQUINA                               A
+11744 TEXEIRA CAMPERO, JENIFER                                     I
+11768 CARABAJAL MULLATIERI, CRISTIAN MATIAS                        I
+11769 CARRASCO HERNANDEZ, EDISON CRISTIAN                          I
+11770 DIAZ, YANELL                                                 A
+11771 PRUDENZA BISIO, LUCIA                                        A
+11772 AVILA FERNANDEZ, MIRTA SOFIA                                 E
+11773 DREYER SANCHEZ, CATALINA ELENA                               I
+11774 CLAVIJO, PATRICIA                                            I
+11775 DE MORAES, CECILIA                                           E
+11776 PASCAL, LAURA CRISTINA                                       E
+11777 NECLEA HERNANDEZ, ANGELA NELY                                A
+11778 PERINI RUIZ, CAMILA                                          A
+11779 REMEDIOS, DANIEL                                             A
+11807 LOPEZ CHAPPADA, MARIA JULIA                                  A
+11808 BONILLA DE LOS SANTOS, DANIELA GISSEL                        I
+11809 BENTOS PEREIRA, MARIA GABRIELA                               A
+11810 OLIVERA MORAES, VICTOR MANUEL                                I
+11811 CENTURION VELAZQUEZ, SOFIA ELIZABETH                         I
+11812 ESQUIVEL, MARY ELIZABETH                                     A
+11813 HERNANDEZ SOSA, VANESSA                                      I
+11814 UVIEDO PORTELA, IVONNES YOLANDA                              I
+11815 BRITOS MESEGUET, MARIA TERESA                                A
+11816 LOPEZ, MARTIN                                                A
+11837 SOUTO GUASQUE, MAGDALENA                                     E
+11838 BUE, MARIA DEL ROSARIO                                       I
+11839 MILLER GONZALEZ, PATRICIA KARINA                             I
+11871  BAGES GANDARA, MARIA ALEJANDRA                              I
+11872 LINDEBLAD MU—OZ, ANA LAURA                                   I
+11873 HORNOS BAUZA, NANCY ESTHER                                   I
+11874 GUEVARA, MIRTA                                               I
+11875 LIMA, CYNTHIA                                                I
+11876 FERNANDEZ ABUD,  CLAUDIA CECILIA                             A
+11877 NU—EZ CABRERA, DIANA                                         I
